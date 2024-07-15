@@ -1,16 +1,5 @@
-# route_task
+Task Description :
 
-A new Flutter project.
+This project required creating a responsive design. The implementation followed the Clean Architecture pattern and utilized various tools and libraries including BLoC Cubit for state management, SVG icons, Dio for networking, and Dependency Injection (using Injectable and Get It). The Repository Pattern was also applied. While I planned to add pagination, I was constrained by time and the limitations of the provided API.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot-1721004846668](https://github.com/user-attachments/assets/e5379c1d-6b7f-46ef-bcd8-9bfdcce94836)
